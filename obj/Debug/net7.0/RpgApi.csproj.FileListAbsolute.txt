@@ -228,3 +228,7 @@ D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\publish\appsettings.Development.json
 D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\publish\appsettings.json
 D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\publish\RpgApi.deps.json
 D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\publish\RpgApi.runtimeconfig.json
+D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\2ds\gustavoL\dsi\RpgApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
